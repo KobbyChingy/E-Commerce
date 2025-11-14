@@ -110,4 +110,5 @@ Choose your tool and create visualizations!
 
 ✅ What's our customer retention rate?
 
-##Everything else is in the "ecommerce_complete.sql"
+##Everything else is in the "e-commerce dashboard
+"
